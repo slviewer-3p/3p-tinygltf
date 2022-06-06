@@ -49,7 +49,7 @@
             <string>include/tinygltf/tiny_gltf.h</string>
             <string>include/tinygltf/json.hpp</string>
             <string>LICENSES/tinygltf_license.txt</string>
-            <string>VERSION.txt</string>
+            <string>include/tinygltf/tinygltf_version.txt</string>
           </array>
         </map>
       </map>
@@ -60,7 +60,7 @@
       <key>source_type</key>
       <string>git</string>
       <key>version_file</key>
-      <string>VERSION.txt</string>
+      <string>include/tinygltf/tinygltf_version.txt</string>
     </map>
     <key>type</key>
     <string>autobuild</string>
